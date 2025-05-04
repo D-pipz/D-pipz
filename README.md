@@ -1,4 +1,4 @@
-##  Hi, I'm <D-pipz>! 👋
+##  Hi, I'm <Dpipz>! 👋
 
 I am a learner of the ALX Front-End Web Development and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is why I started with software engineering, what I am passionate about and what inspires me is the zeal to be help people create softwares that would be user friendly with no complications. My aim is to study and be professional in this tech skill of mine and that’s why I would like to work on various blockchain or google projects in the future.
 
